@@ -13,6 +13,7 @@
 | 1 | SN74LS06N | U2 | DIP-14_L19.2-W6.6-P2.54-LS10.9-BL | SN74LS06N | TI(德州仪器) | C21803 | LCSC |
 | 1 | Bi-Directional Logic Level Converter | U3 |  | BOB-12009 | Sparkfun |  |  |
 | 1 | Raspberry Pi Zero (or compatible) | U1 |  | Raspberry Pi Zero | Raspberry Pi Foundation |  |  |
+| 1 | DIP-14 Socket | Optional | DIP-14_L17.8-W10.2-P2.54-BL | IC-14P | ZHOURI(洲日) | C5289486 | LCSC |
 | 4 | Nylon/Brass Spacer/Stand-off | Optional | M2.5x11mm |  |  |  |  |
 | 8 | Nylon/Brass Screw | Optional | M2.5x5mm |  |  |  |  |
 | 1 | JST-XH male 6-pin cable, assembled | Optional |  |  |  |  |  |
